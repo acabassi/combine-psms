@@ -1,10 +1,10 @@
 # Kernel learning approaches for summarising and combining posterior similarity matrices
 
-This is the accompanying code for Cabassi, Richardson, and Kirk (in preparation).
+This is the accompanying code for Cabassi, Richardson, and Kirk (2020).
 
 ## References
 
-Cabassi, A., Richardson, S., and Kirk, P.D.W. Kernel learning approaches for summarising and combining posterior similarity matrices. In preparation.
+Cabassi, A., Richardson, S., and Kirk, P.D.W. (2020). Kernel learning approaches for summarising and combining posterior similarity matrices. arXiv preprint. 
 
 ## Contact
 
